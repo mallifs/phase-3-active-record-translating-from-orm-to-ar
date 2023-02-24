@@ -8,5 +8,5 @@ gem "sqlite3", "~> 1.4"
 
 group :test do
   gem "database_cleaner"
-  gem "rspec"
+  gem 'rspec', '~> 3.12'
 end
